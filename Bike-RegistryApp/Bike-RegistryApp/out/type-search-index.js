@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ca.sfu.cmpt213","l":"Main"},{"p":"ca.sfu.cmpt213","l":"Registry"}];updateSearchResults();
